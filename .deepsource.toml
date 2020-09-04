@@ -1,8 +1,8 @@
 version = 1
 
 [[analyzers]]
-name = "go"
+name = "python"
 enabled = true
 
   [analyzers.meta]
-  import_paths = ["github.com/saifsadiq1995/hello-world"]
+  runtime_version = "3.x.x"
